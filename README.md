@@ -1,2 +1,2 @@
 # devstatmon
-Device ONLINE/OFFLINE status montir
+Device ONLINE/OFFLINE status monitor
