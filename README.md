@@ -76,4 +76,4 @@ Updates are sent to your SmartThings Edge presence device (via edgebridge) when 
 
 **ONLINE = present, OFFLINE = not present**
 
-You should see messages on your edgebridge console whenever update messages are sent from the devstatmon app, and your SmartThings device presence state will change accordingly as the edgebridge forwards the message to the Edge driver.
+You should see messages on your edgebridge console whenever update messages are sent from the devstatmon app, and your SmartThings device presence state will change accordingly as the edgebridge server forwards the message to the Edge driver.
