@@ -38,7 +38,7 @@ logfile_output = yes
 logfile = devstatmon.log
 ```
 3. Be sure edgebridge is installed and running
-4. If needed, install the LAN Presence Edge driver to your hub from [this channel](https://bestow-regional.api.smartthings.com/invite/d429RZv8m9lo)
+4. Install the LAN Presence Edge driver to your hub from [this channel](https://bestow-regional.api.smartthings.com/invite/d429RZv8m9lo) (if not already)
     * Create a separate LAN Presence device for each SmartThings device you configured above
     * For each LAN Presence device, configure device Settings:
       * LAN Device Name - the short name you used in the devstatmon.cfg file
