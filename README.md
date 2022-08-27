@@ -70,4 +70,4 @@ Sat Aug 27 15:26:34 2022  Device <82d03cd4-7bc6-49fd-bf40-0a4319fb1799> (dev2) r
 Sat Aug 27 15:26:56 2022  Device <ff235174-56df-4a0f-a8a1-5821cbdb3e05> (dev3) returned ONLINE
 ```
 
-The SmartThings API is polled based on the interval you configured.  Updates are sent to your SmartThings presence device when there is a change or every 30 minutes whether or not there is a change.  **ONLINE = present, OFFLINE = not present**
+The SmartThings API is polled based on the interval you configured.  Updates are sent to your SmartThings Edge presence device when there is a change, OR every 30 minutes whether or not there is a change.  **ONLINE = present, OFFLINE = not present**
