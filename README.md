@@ -1,5 +1,5 @@
 # devstatmon
-Device ONLINE/OFFLINE status monitor
+A Python app that serves as a SmartThings Device ONLINE/OFFLINE status monitor
 
 ## Pre-requisites
 * [edgebridge](https://github.com/toddaustin07/edgebridge)
